@@ -1,0 +1,17 @@
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\bin\Debug\Compucentro.exe.config
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\bin\Debug\Compucentro.exe
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\bin\Debug\Compucentro.pdb
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.csprojAssemblyReference.cache
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.Menu.resources
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.csproj.GenerateResource.cache
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.exe
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.pdb
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.DatosServicio.resources
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.BaseSalir.resources
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.Reporte.resources
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\bin\Debug\itextsharp.dll
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\bin\Debug\itextsharp.xml
+C:\Users\Gerardo\Desktop\RepositoriosC\Compucentro\Compucentro\obj\Debug\Compucentro.csproj.CopyComplete
